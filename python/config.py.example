@@ -1,0 +1,22 @@
+"""
+Configuration file template for Google Places API
+Copy this file to config.py and add your API key
+
+IMPORTANT: 
+- Copy this file: cp config.py.example config.py
+- Add your API key to config.py
+- DO NOT commit config.py to version control!
+"""
+
+# Google Places API Configuration
+GOOGLE_PLACES_API_KEY = "YOUR_API_KEY_HERE"
+
+# Default Place ID (you can change this or pass via environment variable)
+# To find a Place ID, use: https://developers.google.com/maps/documentation/places/web-service/place-id
+GOOGLE_PLACE_ID = "YOUR_PLACE_ID_HERE"
+
+# Output settings
+OUTPUT_FOLDER = "collected_reviews"
+OUTPUT_CSV = "app_ready_reviews.csv"
+
+

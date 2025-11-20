@@ -1,0 +1,8 @@
+author,content,rating,category,date,location,verified
+John Smith,"The Grand Palace Hotel exceeded all my expectations! The staff was incredibly welcoming and professional. My suite had a breathtaking view of the city skyline.",5,hotel,2024-12-15,"New York, NY",true
+Sarah Johnson,"Absolutely terrible experience at Bistro Luna. We waited 45 minutes just to be seated despite having a reservation. The food was cold and service was slow.",1,restaurant,2024-12-10,"Chicago, IL",true
+Mike Davis,"The iPhone 15 Pro is a solid upgrade from my previous phone. The camera quality is noticeably better, especially in low light conditions. The battery life easily lasts a full day.",4,product,2024-12-08,"San Francisco, CA",false
+Emma Wilson,"Ocean View Resort was a mixed bag. The location right on the beach was fantastic, and the sunset views from our balcony were magical. Unfortunately, the main restaurant was understaffed.",3,hotel,2024-12-05,"Miami Beach, FL",true
+David Brown,"Chez Laurent is pure culinary artistry! From the moment we walked in, the ambiance was sophisticated yet welcoming. Each course was a masterpiece.",5,restaurant,2024-12-03,"Beverly Hills, CA",true
+Lisa Anderson,"The wireless headphones I purchased were a complete disappointment. The sound quality was mediocre at best, with muddy bass and harsh treble.",2,product,2024-11-28,"Seattle, WA",true
+
